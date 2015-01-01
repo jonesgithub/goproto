@@ -1,4 +1,4 @@
-package diskless
+package stream
 
 import (
 	"encoding/binary"
